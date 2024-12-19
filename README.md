@@ -55,7 +55,6 @@ endmodule
 
 
 
-Developed by: Charithrakshi K RegisterNumber: 24900651*/
 
 
 **RTL realization**
